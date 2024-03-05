@@ -1,0 +1,24 @@
+.navItem {
+    display: inline-block;
+    padding: ;
+}
+
+nav { 
+    background-color: lightblue;
+}
+
+.sidebar {
+    width: 29%;
+    float: left;
+
+}
+
+.topDiv { 
+    background-color: orange;
+    height: 200px;
+}
+
+.topDiv img {
+    width: 125px;
+
+}
